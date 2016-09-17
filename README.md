@@ -1,2 +1,3 @@
 # MyVSCodeTest
-Getting started
+# Getting started
+# Hello from VS Code!
