@@ -1,0 +1,8 @@
+Sub ValuesInMillions()
+'
+' Display Values in millions - with one decimal place
+' Keyboard Shortcut: Ctrl+Shift+M
+'
+    Selection.NumberFormat = "#,##0.0,,"
+
+End Sub
